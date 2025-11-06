@@ -1,4 +1,4 @@
-/automated-home-grocecery-ordering-system\
+*/automated-home-grocecery-ordering-system\*
 A lightweight, extensible AI agent that helps users browse, add, and reorder groceries, plan shopping lists, and manage deliveries — built for demos, prototypes, and production-ready integrations.
 
 Table of contents
